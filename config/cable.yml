@@ -7,4 +7,3 @@ test:
 production:
   adapter: redis
   url: redis://redistogo:44ba9f62725e6f7e976261b211858b7f@pike.redistogo.com:11060/
-  channel_prefix: message_me_production
